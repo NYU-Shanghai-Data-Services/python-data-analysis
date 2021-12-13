@@ -4,8 +4,8 @@
 This repository serves as a documentation of the workshop. In this workshop, we explored how to do basic data analysis using Python, gaining a broad understanding of the data science life cycle.
 
 ## Python Workshop Series
-- Intro to Python for Non-Programmers
-- Intro to Data Structures for Non-Programmers
+- [Intro to Python for Non-Programmers](https://github.com/NYU-Shanghai-Data-Services/python-intro)
+- [Intro to Data Structures for Non-Programmers](https://github.com/NYU-Shanghai-Data-Services/python-data-structures)
 - **Intro to Data Analysis with Python for Non-Programmers**
 
 ![image](https://user-images.githubusercontent.com/93502896/145765164-63e7a0af-736c-4180-aacf-839779086068.png)
